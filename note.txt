@@ -1,0 +1,14 @@
+Async 
+Set time out 
+set interval 
+Fetch API 
+Axios (or other HTTP libraries)
+promise
+// kuch code socho mn me .. jo ki async code ho .. matlab ki ye side stack me jayga fir main 
+stack me chalega ab ye socho ki aapne is code ko likha hai to iska ans kabhi aayga aur aisa
+bhi ho sakta hai ki iska ans naa aye .. ab promises kya hai ki aisa samajte hain ki aap promise
+ke andar koi bhi async code likho jo man me aaye aur promise aapko ek parchi dedeta hai 
+and wo parchi par by default par likah hota hai waiting parchi par do event hote hain mainly 
+ek ka name hai then ek ka catch agar aapka data aa gya to parchi pe completed likh jayga waiting
+ki jagah ..and thenchalega aru agar data me dikkat aai to catch chalega and waititn ki jagah rejected
+likh jayga. 
